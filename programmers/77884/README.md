@@ -2,4 +2,4 @@
 
 ## 성능
 
-Time: 1.88ms, Memory: 37.4MB
+Time: 0.37ms, Memory: 33.7MB
